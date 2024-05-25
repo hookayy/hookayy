@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### 🏋️ My Latest Projects as Developer
 - [Djargonauts](https://github.com/priskilladrn/Djargonauts.git) - iOS Djargon Learning Game
-- [Tamaska](gitlab.smartcitynusantara.id) - Smart City Management Web App
+- [Tamaska](https://gitlab.smartcitynusantara.id) - Smart City Management Web App
 - [Sincere Education](https://github.com/SI-RPL-2022/SI4302_H_SINDU.git) - Web Application Project of Capstone Project Course
 
 #### 💡 Currently Learning
