@@ -1,6 +1,7 @@
 ## Hi there 👋, I'm Naufal!
 
 #### 🏋️ My Latest Projects as Developer
+- [BorongBareng](https://borongbareng.com) - Collective Buying Platform
 - [Djargonauts](https://github.com/priskilladrn/Djargonauts.git) - iOS Djargon Learning Game
 - [Tamaska](https://gitlab.smartcitynusantara.id) - Smart City Management Web App
 - [Sincere Education](https://github.com/SI-RPL-2022/SI4302_H_SINDU.git) - Web Application Project of Capstone Project Course
